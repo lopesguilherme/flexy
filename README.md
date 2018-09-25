@@ -6,7 +6,7 @@ Queria muito ser chamado mas, independente do resultado estou feliz demais pelo 
 Agora deu de enrolação e vamos as instruções:
 
 Criei um script com os dados necessários para criação do banco que uso (FlexyTeste.sql)
-Minha baseurl ficou como: http://localhost/flexy/cliente/
+Minha baseurl ficou como: http://localhost/flexy/cliente/ sendo flexy o nome da pasta raiz
 Fiz um login simples com email e senha, então por favor se cadastrem!! :)))
 Nas minhas controller defino quais views serão usadas.
 tenho um arquivo funcoes_helper com varios helper que posso usar em diferentes casos
