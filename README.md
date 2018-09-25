@@ -1,6 +1,6 @@
 Primeiro quero agradecer muito a oportunidade!!
 Foi o primeiro projeto que desenvolvi sozinho, queria ter tido mais tempo para fazer um layout mais apresentavel, mas infelizmente meu atual trabalho (espero que não por muito tempo rs) me consumiu muito esses ultimos dias e não tive tempo :(
-Fiz em codeigniter porque ainda estou em fase de aprendizado me senti mais seguro fazendo em um projeto que ja tenho como base.
+Fiz em codeigniter porque ainda estou em fase de aprendizado e me senti mais seguro fazendo em um projeto que ja tenho como base.
 Queria muito ser chamado mas, independente do resultado estou feliz demais pelo meu resultado individual, então já agradeço muito a flexy por isso!
 
 Agora deu de enrolação e vamos as instruções:
